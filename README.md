@@ -1,7 +1,7 @@
 What each file does:
 
-# 75/25 split: 75% data for training and 25% for testing.
-# 25/75 split : 25% data for training and 75% for testing.
+ 75/25 split: 75% data for training and 25% for testing.
+ 25/75 split : 25% data for training and 75% for testing.
 
 preprecessor.py: preprecesses labeledBow.fest
 	python3 preprocessor.py <labeledBow.fest like formatted file>
