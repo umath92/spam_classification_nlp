@@ -260,8 +260,7 @@ MegaM:
 
 Gneral comment whith hold for all methods:
 	-The precison and recall is higher for the 75/25 split then the 25/75 split. This is expected as there is more training data for the 75/25 split. 
-	- Out of the three methods, Naive Bayes and SVM showed more consistant and higher f-score for both spam/ham and sentiment analysis. Performance vise Mega-M and Naive Byes took roughly the same time to run. SVM took a long to long to optimize.
-Note: Please be aware that the output file NAMES (content will depend on what script we run) for 25/75 split are the same for 75/25 split (I did that so that I dont generate many files). The concepts remain the same and it runs perfectly.
+	- Out of the three methods, Naive Bayes and SVM showed more consistant and higher f-score for both spam/ham and sentiment analysis. Performance vise Mega-M and Naive Byes took roughly the same time to run. SVM took a long time to optimize. 
 
 
 
